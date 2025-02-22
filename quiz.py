@@ -38,6 +38,7 @@ def apply_styles():
         box-shadow: 0 4px 8px rgba(0,0,0,0.15);
         animation: fadeIn 0.8s ease-out;
         margin: 20px;
+        color: black;
     }
     
     .stRadio > label {
